@@ -1,3 +1,7 @@
+![image](https://github.com/Umang-Sharma1/weather/assets/106474687/d595e6c6-0741-4c6f-a567-08be161f99dd)#Brief Overview
+It is a weather website. In this we are fetching the weather from a fetch api request. 
+<a href= "https://weather9760.netlify.app/">
+<img src ="https://res.cloudinary.com/dzmffwmxi/image/upload/v1717064883/Screenshot_2024-05-30_155428_kystlp.png"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
